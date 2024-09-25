@@ -1,4 +1,4 @@
-public class variables {
+class Variables {
     public static void main(String[] args) {
         boolean isTrueOrFalse = false;
         String thisIsAString = "AString";
